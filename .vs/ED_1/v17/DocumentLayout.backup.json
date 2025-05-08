@@ -1,57 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\mr semana 5\\ejercicios\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\colas nrc 11360\\mr_estructura_pr\u00E1ctica_semana_7\\ejercicios\\frmcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\mr semana 5\\ejercicios\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\mr semana 5\\ejercicios\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\mr semana 5\\ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\mr semana 5\\ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\mr semana 5\\ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\mr semana 5\\ejercicios\\clases\\listacircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\listacircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\mr semana 5\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\mr semana 5\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\frmlistadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\colas nrc 11360\\mr_estructura_pr\u00E1ctica_semana_7\\ejercicios\\frmcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\colas nrc 11360\\mr_estructura_pr\u00E1ctica_semana_7\\ejercicios\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\colas nrc 11360\\mr_estructura_pr\u00E1ctica_semana_7\\ejercicios\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\desktop\\colas nrc 11360\\mr_estructura_pr\u00E1ctica_semana_7\\ejercicios\\clases\\listadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\listadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\listacircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\listacircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\frmlistadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistadobleanalisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{78A6F99C-2A99-4336-8680-D3CCA95A8123}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -62,12 +78,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -89,12 +101,29 @@
               "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCola.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmCola.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmCola.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmCola.cs",
+              "RelativeToolTip": "ejercicios\\FrmCola.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:17:57.319Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FrmListaSimple.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\FrmListaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmListaSimple.cs",
               "RelativeDocumentMoniker": "ejercicios\\FrmListaSimple.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\FrmListaSimple.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmListaSimple.cs [Dise\u00F1o]",
               "RelativeToolTip": "ejercicios\\FrmListaSimple.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T13:32:44.804Z",
@@ -102,24 +131,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmPila.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\FrmPila.cs",
-              "RelativeDocumentMoniker": "ejercicios\\FrmPila.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\FrmPila.cs",
-              "RelativeToolTip": "ejercicios\\FrmPila.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAApwEsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T13:06:29.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FrmPila.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\FrmPila.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmPila.cs",
               "RelativeDocumentMoniker": "ejercicios\\FrmPila.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\FrmPila.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmPila.cs [Dise\u00F1o]",
               "RelativeToolTip": "ejercicios\\FrmPila.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T12:47:23.779Z",
@@ -127,11 +143,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "FrmPila.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmPila.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmPila.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmPila.cs",
+              "RelativeToolTip": "ejercicios\\FrmPila.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAApwEoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:06:29.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Pila.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\Pila.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\Pila.cs",
               "RelativeDocumentMoniker": "ejercicios\\clases\\Pila.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\Pila.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\Pila.cs",
               "RelativeToolTip": "ejercicios\\clases\\Pila.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowEEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +169,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\Nodo.cs",
               "RelativeDocumentMoniker": "ejercicios\\clases\\Nodo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\Nodo.cs",
               "RelativeToolTip": "ejercicios\\clases\\Nodo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,24 +182,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\Form1.cs",
               "RelativeDocumentMoniker": "ejercicios\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\Form1.cs",
               "RelativeToolTip": "ejercicios\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAIA9wDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAhwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T12:55:48.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\Form1.cs",
               "RelativeDocumentMoniker": "ejercicios\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "ejercicios\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T12:55:35.13Z",
@@ -178,11 +207,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "FrmCola.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmCola.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmCola.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmCola.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicios\\FrmCola.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:48:52.705Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListaDobleAnalisis.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\ListaDobleAnalisis.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\ListaDobleAnalisis.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\ListaDobleAnalisis.cs",
+              "RelativeToolTip": "ejercicios\\clases\\ListaDobleAnalisis.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:12:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\Cola.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\Cola.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\Cola.cs",
+              "RelativeToolTip": "ejercicios\\clases\\Cola.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:49:44.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "NodoDoble.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\NodoDoble.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\NodoDoble.cs",
               "RelativeDocumentMoniker": "ejercicios\\clases\\NodoDoble.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\NodoDoble.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\NodoDoble.cs",
               "RelativeToolTip": "ejercicios\\clases\\NodoDoble.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,11 +258,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ListaCircular.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\ListaCircular.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\ListaCircular.cs",
               "RelativeDocumentMoniker": "ejercicios\\clases\\ListaCircular.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\ListaCircular.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\ListaCircular.cs",
               "RelativeToolTip": "ejercicios\\clases\\ListaCircular.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -204,11 +271,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\Program.cs",
               "RelativeDocumentMoniker": "ejercicios\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\Program.cs",
               "RelativeToolTip": "ejercicios\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,40 +284,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ListaDoble.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\ListaDoble.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\ListaDoble.cs",
               "RelativeDocumentMoniker": "ejercicios\\clases\\ListaDoble.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\clases\\ListaDoble.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\clases\\ListaDoble.cs",
               "RelativeToolTip": "ejercicios\\clases\\ListaDoble.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAIwDMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T13:43:17.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T13:43:17.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "FrmListaDobleAnalisis.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\FrmListaDobleAnalisis.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmListaDobleAnalisis.cs",
               "RelativeDocumentMoniker": "ejercicios\\FrmListaDobleAnalisis.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\FrmListaDobleAnalisis.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicios\\FrmListaDobleAnalisis.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\MR SEMANA 5\\ejercicios\\FrmListaDobleAnalisis.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:03:17.512Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-16T01:03:17.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "FrmListaDoble.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\FrmListaDoble.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\colas nrc 11360\\MR_ESTRUCTURA_PR\u00C1CTICA_SEMANA_7\\ejercicios\\FrmListaDoble.cs",
               "RelativeDocumentMoniker": "ejercicios\\FrmListaDoble.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\MR SEMANA 5\\ejercicios\\FrmListaDoble.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ejercicios\\FrmListaDoble.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\MR SEMANA 5\\ejercicios\\FrmListaDoble.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:02:27.11Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-16T01:02:27.11Z"
             }
           ]
         }
